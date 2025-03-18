@@ -1,16 +1,17 @@
-## Hi there 👋
+✨ Hi 👋, I'm Rajneesh!
+A passionate AI & ML Developer from India 🚀
 
-<!--
-**Rajn33sh/Rajn33sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year CSE student | Specialization in AI & ML
+💡 Currently working on Quiz-based applications & real-time ML projects
+🔭 Building JobPrep 🚀 (A C++ Quiz App for placement preparation)
+🌱 Exploring Deep Learning, Reinforcement Learning, and Cloud AI
+💬 Ask me about Python, ML, DL, Computer Vision, and Competitive Coding
+📫 Reach me at rajneeshranjan1034@gmail.com
+⚡ Fun fact: I love optimizing ML models & solving real-world AI problems 🤖
+🌐 Connect with me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Languages & Tools:
+Python C++ Java Machine Learning Deep Learning PyTorch TensorFlow
+MongoDB MySQL Git Linux Postman Figma
